@@ -1,4 +1,4 @@
-package ru.netology.radio;
+package ru.netology.movie;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

@@ -1,8 +1,7 @@
-package ru.netology.radio;
+package ru.netology.movie;
 
 public class MovieManager {
 
-    public String[] findAll;
     private String[] movies = new String[0];
     private int limit;
 
